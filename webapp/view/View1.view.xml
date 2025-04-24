@@ -1,0 +1,10 @@
+<mvc:View controllerName="employees.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Button text="Approve" type="Accept" width="100px" icon="">
+        </Button>
+        </content>
+    </Page>
+</mvc:View>
